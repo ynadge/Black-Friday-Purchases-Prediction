@@ -14,7 +14,7 @@ If only there’s a way to learn from the data...
 
 This project was part of my role as project manager during the AI Student Collective fall cohort 2024. My goal as project manager was to help my group of beginner data science students understand core machine learning models and concepts.
 
-To achieve this, I picked a synthetic data set that would let me demonstrate the steps of a machine learning piepline.
+To achieve this, I picked a synthetic data set that would let me demonstrate the steps of a machine learning pipeline.
 
 ### Data features
 
