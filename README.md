@@ -60,7 +60,7 @@ streamlit run app.py
 * Hyperparameter Optimization with Grid Search
 * Incorporating Randomized Search/Bayesian Optimization for Efficiency
 
-Checkout the [notes and code](https://github.com/ynadge/Black-Friday-Purchases-Prediction/blob/main/Project%20Code%20and%20Notes%20.ipynb) of the project that won me best project manager for further model and evalutation details!
+Checkout the [notes and code](https://github.com/ynadge/Black-Friday-Purchases-Prediction/blob/main/Project%20Code%20and%20Notes%20.ipynb) that won me best project manager for further model and evalutation details!
 
 
 
